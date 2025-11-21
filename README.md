@@ -1,3 +1,3 @@
 # Jornada Docker
 
-Vem comigo aprender docker
+come with me to learn docker
