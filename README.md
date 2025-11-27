@@ -188,7 +188,7 @@ serve para **ver informações detalhadas e completas** sobre um **container**, 
     
 - bind mounts
 
-ver detalhes da imagem
+ver detalhes da imagem, container...
 - docker inspect <image>  -> Ex: docker inspect ubuntu;
 - docker inspect  **id_container** 
 - docker inspect  **volume**
